@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /*# ----------------------------------------------------------
-# Lab #4: Cyptrarithmetic Puzzle
+# M2. Tarea
 #  Implementa la solución de la pregunta 2
 #
 # Date: 15-Nov-2022
